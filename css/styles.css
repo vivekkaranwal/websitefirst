@@ -1,0 +1,108 @@
+body{
+  text-align: center;
+  margin: auto;
+  font-family: 'Arvo', serif;
+  background-color: #fae7cb;
+
+}
+p{
+    font-family: 'Arizonia', cursive;
+    color:#0779e4;
+    font-size: 20px;
+}
+#reds{
+  color: red;
+}
+#second{
+    color: #120136;
+
+}
+h1{
+    color: #c70039;
+   margin-top: 20px auto 0 auto;
+   font-family: 'Dancing Script', cursive;
+   font-size: 50px;
+}
+.div1{
+  padding: 200px;
+}
+.topcontainer{
+
+  background-color: #c3edea;
+  padding-top: 50px;
+}
+.middle-container{
+
+}
+.bottom-container{
+
+}
+.profile{
+  width: 50%;
+  margin: auto;
+
+}
+.topimage{
+  position: absolute;
+   top:300px;
+   left: 30px;
+
+}
+.bimage{
+  position: absolute;
+  top: 120px;
+  right: 30px;
+}
+.computer{
+   width: 20%;
+   float: left;
+   padding-left: 0px;
+
+}
+.chillies{
+  width: 20%;
+  float: right;
+  padding-top: 50px;
+  padding-right: 90px;
+}
+.skill-row{
+   width: 50%;
+   padding-bottom: 30px;
+    margin: 100px auto 100px auto;
+}
+
+.contact-me{
+  width: 50%;
+  margin: auto;
+  padding-top: 30px;
+}
+.webimageone{
+  width: 50%;
+  margin: auto;
+  padding-top: 30px;
+  padding-bottom: 50px;
+}
+.hrid{
+  width: 50%;
+  margin: auto;
+
+
+}
+
+.skills-row{
+  width: 50%;
+  margin: auto;
+}
+.padding{
+  padding-top: 40px;
+}
+h2{
+  font-size: 30px;
+  color: #c70039;
+}
+hr{
+  border-style: dotted none none;
+  border-color: gray;
+  border-width: 4px;
+  height: 0px;
+}
